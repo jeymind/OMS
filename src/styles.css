@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#mapApp {
+  position: relative;
+}
+#styleChanger {
+  position: absolute;
+  z-index: 100;
+  right: 60px;
+  top: 11px;
+}
+
+.gm-style-mtc,
+.gm-svpc {
+  display: none;
+}

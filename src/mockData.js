@@ -1,0 +1,33 @@
+const locations = [
+  { id: "data1", geo: { lat: -31.56391, lng: 147.154312 } },
+  { id: "data2", geo: { lat: -33.718234, lng: 150.363181 } },
+  { id: "data3", geo: { lat: -33.727111, lng: 150.371124 } },
+  { id: "data4", geo: { lat: -33.848588, lng: 151.209834 } },
+  { id: "data5", geo: { lat: -33.851702, lng: 151.216968 } },
+  { id: "data6", geo: { lat: -34.671264, lng: 150.863657 } },
+  { id: "data7", geo: { lat: -35.304724, lng: 148.662905 } },
+  { id: "data8", geo: { lat: -36.817685, lng: 175.699196 } },
+  { id: "data9", geo: { lat: -36.828611, lng: 175.790222 } },
+  { id: "data10", geo: { lat: -37.75, lng: 145.116667 } },
+  { id: "data11", geo: { lat: -37.759859, lng: 145.128708 } },
+  { id: "data12", geo: { lat: -37.765015, lng: 145.133858 } },
+  { id: "data13", geo: { lat: -37.770104, lng: 145.143299 } },
+  { id: "data14", geo: { lat: -37.7737, lng: 145.145187 } },
+  { id: "data15", geo: { lat: -37.774785, lng: 145.137978 } },
+  { id: "data16", geo: { lat: -37.819616, lng: 144.968119 } },
+  { id: "data17", geo: { lat: -38.330766, lng: 144.695692 } },
+  { id: "data18", geo: { lat: -39.927193, lng: 175.053218 } },
+  { id: "data19", geo: { lat: -41.330162, lng: 174.865694 } },
+  { id: "data20", geo: { lat: -42.734358, lng: 147.439506 } },
+  { id: "data21", geo: { lat: -42.734358, lng: 147.501315 } },
+  { id: "data22", geo: { lat: -42.735258, lng: 147.438 } },
+  { id: "data23", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data24", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data25", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data26", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data27", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data28", geo: { lat: -43.999792, lng: 170.463352 } },
+  { id: "data29", geo: { lat: -43.999792, lng: 170.463352 } }
+];
+
+export default locations;
